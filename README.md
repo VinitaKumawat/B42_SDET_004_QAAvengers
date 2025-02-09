@@ -7,19 +7,28 @@ This test plan defines the scope, approach, resources, and schedule for the auto
 # 🎯 Objectives
 
 ✅ Ensure all key functionalities of the Luni Interface website work as expected.
+
 ✅ Validate navigation flows and redirections.
+
 ✅ Test responsiveness across different screen sizes (desktop, tablet, mobile).
+
 ✅ Verify interactive elements and UI components.
+
 ✅ Identify and report bugs effectively.
 
 
 # 📌 Scope
 
 🚀 Homepage Navigation
+
 🔐 Login/Signup🎛 Interactive Components
+
 🛒 Add to Cart & Checkout Process
+
 📱 Responsiveness & Layout
+
 📝 Content Validation
+
 🔗 Footer Links
 
 
@@ -44,6 +53,7 @@ Content Validation: Verify static and dynamic content accuracy.
 
 
 Footer Links: Check redirection to relevant pages.
+
 
 
 # 🔍 Testing Approach
@@ -72,6 +82,7 @@ Footer Links: Check redirection to relevant pages.
 📌 Summary Report
 
 📌 Mind Map for Test Flow Visualization
+
 
 # ✅ Entry and Exit Criteria
 
@@ -105,6 +116,7 @@ The test summary report is reviewed.
 
 # ⚠️ Risks & Mitigation
 
+
 ## Risk                                              Mitigation Strategy
 
 Cypress compatibility issues :         Use latest stable versions, cross-browser testing
@@ -114,6 +126,8 @@ Dynamic UI changes :                   Implement flexible locators and update te
 Test flakiness :                       Use retry mechanisms and proper wait strategies
 
 Resource availability:                 Plan testing activities in advance, allocate tasks efficiently
+
+
 
 🚀 By following this test plan, we aim to ensure a high-quality user experience on the Luni Interface website through efficient and reliable test automation. ✅
 
