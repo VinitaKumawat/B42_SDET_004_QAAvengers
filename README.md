@@ -1,5 +1,3 @@
-| ![Background](![logo](https://github.com/user-attachments/assets/c11cdbd2-cffa-4371-ac9f-419a71826e31) |
-
 # B42_SDET_004_QAAvengers
 
 # 🛠️ Introduction
